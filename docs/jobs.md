@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. ALEXANDRU VAIDA VOEVOD, NR.51, ET.9 |
 | Website | [https://www.endava.com](https://www.endava.com) |
 | Careers | [https://www.endava.com/careers/jobs](https://www.endava.com/careers/jobs) |
-| Last Scraped | 2026-09-05 |
+| Last Scraped | 2026-09-06 |
 
 ## Current Job Listings (115)
 
-_Generated: 2026-09-05T09:35:06.771Z_
+_Generated: 2026-09-06T09:49:32.972Z_
 
 ### Java Developer Consultant 
 
